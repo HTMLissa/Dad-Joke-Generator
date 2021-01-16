@@ -1,0 +1,16 @@
+h1 {
+    text-align: center; 
+}
+
+.card {
+    margin-top: 50px; 
+}
+
+.jokeBtn {
+    background-color: #2C3E50 !important; 
+    transition: .6s linear; 
+}
+
+.jokeBtn:hover {
+    background-color: #FD746C !important; 
+}
